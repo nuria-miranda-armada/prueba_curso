@@ -27,7 +27,7 @@ public class Main {
 		
 		System.out.println("---------------------------------");
 	
-		
+		//Editar desde git
 		
 		Persona p1 = new Persona("Maria", 22);
 		Persona p2 = new Persona("Pili", 59);
